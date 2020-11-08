@@ -1,11 +1,2 @@
----
-title: Title
-author: Simanraj Sadana                                                     
-header-includes:
-  - \usepackage{amsmath, mathtools, braket}
-  - \usepackage[margin=2cm]{geometry}
-numbersections: True
-abstract: Abstract
----
-  
 # Quantum circuit for n-qubit Grover's search algorithm on IBM Qiskit
+This code is the additional material for the article named __Grover’s search algorithm for n-qubits with optimal number of iterations__.
